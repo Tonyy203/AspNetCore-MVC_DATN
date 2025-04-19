@@ -1,0 +1,741 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebsitePhoto.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsitePhoto.k4p52ryhtp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\19.png",
+      "PackagePath": "staticwebassets\\assets\\img\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\20.png",
+      "PackagePath": "staticwebassets\\assets\\img\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\21.png",
+      "PackagePath": "staticwebassets\\assets\\img\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\22.png",
+      "PackagePath": "staticwebassets\\assets\\img\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\25.png",
+      "PackagePath": "staticwebassets\\assets\\img\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\26.png",
+      "PackagePath": "staticwebassets\\assets\\img\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\5 (2).png",
+      "PackagePath": "staticwebassets\\assets\\img\\5 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\6 (2).png",
+      "PackagePath": "staticwebassets\\assets\\img\\6 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\About\\bn1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\About\\bn1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\City animation footer.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\City animation footer.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\Products\\pr7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Products\\pr7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\about-hero.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\banner_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\banner_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\banner_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\bn6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bn6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\br1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\br1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\br2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\br2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\br3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\br3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\brand_01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\brand_02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\brand_03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\brand_04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\category_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\category_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\category_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\feature_prod_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\feature_prod_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\feature_prod_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\images.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\product_single_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\img\\shop_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\assets\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\WebsitePhoto\\WebsitePhoto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsitePhoto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebsitePhoto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebsitePhoto.props",
+      "PackagePath": "build\\WebsitePhoto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsitePhoto.props",
+      "PackagePath": "buildMultiTargeting\\WebsitePhoto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebsitePhoto.props",
+      "PackagePath": "buildTransitive\\WebsitePhoto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
