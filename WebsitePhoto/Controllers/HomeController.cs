@@ -1,21 +1,23 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using WebsitePhoto.Models;
 
 namespace WebsitePhoto.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly PhotodbContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(PhotodbContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var products = await _context.TbProducts.ToListAsync();
+            return View(products); // Hiển thị trang chủ với danh sách sản phẩm
         }
 
         public IActionResult Privacy()
@@ -28,5 +30,7 @@ namespace WebsitePhoto.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }

@@ -1,0 +1,67 @@
+﻿@model WebsitePhoto.Areas.Admin.Models.Login
+
+@{
+    ViewData["Title"] = "Đăng Nhập";
+    Layout = "~/Areas/Admin/Views/Shared/_LoginLayout.cshtml";
+}
+
+<style>
+    body {
+        background-color: #f0f2f5;
+    }
+
+    .form-container {
+        max-width: 420px;
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 30px;
+        margin: 60px auto;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    .form-label {
+        font-weight: 600;
+    }
+
+    .btn-primary {
+        font-weight: bold;
+    }
+
+    .input-group-text {
+        background-color: #e9ecef;
+    }
+</style>
+
+<div class="form-container">
+    <h3 class="text-center mb-4">Đăng nhập quản trị</h3>
+
+    <form asp-action="Login" method="post" novalidate>
+        @Html.AntiForgeryToken()
+
+        <div class="mb-3">
+            <label asp-for="Username" class="form-label"></label>
+            <div class="input-group">
+                <span class="input-group-text"><i class="fas fa-user"></i></span>
+                <input asp-for="Username" class="form-control" placeholder="Tên đăng nhập" />
+            </div>
+            <span asp-validation-for="Username" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label"></label>
+            <div class="input-group">
+                <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                <input asp-for="Password" class="form-control" placeholder="Mật khẩu" type="password" />
+            </div>
+            <span asp-validation-for="Password" class="text-danger small"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100">Đăng Nhập</button>
+
+        <div asp-validation-summary="ModelOnly" class="text-danger text-center small mt-2"></div>
+    </form>
+
+    <div class="text-center mt-3">
+        <a asp-area="Admin" asp-controller="Account" asp-action="Register">Chưa có tài khoản? Đăng ký</a>
+    </div>
+</div>

@@ -1,0 +1,55 @@
+﻿@model WebsitePhoto.Models.TbOrder
+
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Chi tiết đơn hàng</h1>
+
+<div>
+    <h4>Thông tin đơn hàng</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Ngày đặt hàng
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+        <dt class="col-sm-2">
+            Trạng thái
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-sm-2">
+            Đã giao
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Delivered)
+        </dd>
+        <dt class="col-sm-2">
+            Ngày giao hàng
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DeliveryDate)
+        </dd>
+        <dt class="col-sm-2">
+            Khách hàng
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CustomerId)
+        </dd>
+        <dt class="col-sm-2">
+            Giảm giá
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Discount)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.OrderId">Chỉnh sửa</a> |
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>

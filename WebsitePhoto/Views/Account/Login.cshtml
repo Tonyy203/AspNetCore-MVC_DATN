@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Đăng Nhập";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card shadow-lg rounded-4">
+                <div class="card-body p-4">
+                    <h3 class="text-center text-success mb-4">Đăng Nhập</h3>
+                    <form asp-action="Login" method="post">
+                        <div class="form-floating mb-3">
+                            <input name="username" class="form-control" placeholder="Tên đăng nhập" required />
+                            <label>Tên đăng nhập</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input name="password" type="password" class="form-control" placeholder="Mật khẩu" required />
+                            <label>Mật khẩu</label>
+                        </div>
+                        <button type="submit" class="btn btn-success w-100 py-2">Đăng Nhập</button>
+
+                        @if (ViewBag.Error != null)
+                        {
+                            <div class="alert alert-danger mt-3 text-center">@ViewBag.Error</div>
+                        }
+                    </form>
+                    <div class="text-center mt-3">
+                        <span>Chưa có tài khoản? </span>
+                        <a href="@Url.Action("Register", "Account")" class="text-decoration-none">Đăng ký ngay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

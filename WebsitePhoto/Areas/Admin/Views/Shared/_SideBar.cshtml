@@ -1,0 +1,178 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var controller = ViewContext.RouteData.Values["Controller"]?.ToString();
+    var action = ViewContext.RouteData.Values["Action"]?.ToString();
+    var sessionUser = HttpContextAccessor.HttpContext.Session.GetString("AdminLogin");
+    var username = Context.Session.GetString("Username");
+}
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+    <a asp-area="Admin" asp-controller="Home" asp-action="Index" class="brand-link text-center">
+        <img src="~/dist/img/AdminLTELogo.png" alt="Logo" class="brand-image img-circle elevation-3" style="opacity:.8">
+        <span class="brand-text font-weight-light">QuanLyPhoto</span>
+    </a>
+
+    <div class="sidebar">
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex align-items-center">
+            <div class="image">
+                <img src="~/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+            </div>
+            <div class="info d-flex flex-column">
+                @if (!string.IsNullOrEmpty(username))
+                {
+                    <a href="#" class="d-block">@username</a>
+                    <form asp-area="Admin" asp-controller="Account" asp-action="Logout" method="post" class="mt-1">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-outline-danger btn-sm">
+                            <i class="fas fa-sign-out-alt me-1"></i> Đăng xuất
+                        </button>
+                    </form>
+                }
+                else
+                {
+                    <a href="#" class="d-block">Quản Lý</a>
+                }
+            </div>
+        </div>
+
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+                <!-- Quản lý sản phẩm -->
+                <li class="nav-item @(controller == "Products" || controller == "ProductCategories" || controller == "ProductComments" || controller == "ProductTags" ? "menu-open" : "")">
+                    <a href="#" class="nav-link @(controller == "Products" || controller == "ProductCategories" || controller == "ProductComments" || controller == "ProductTags" ? "active" : "")">
+                        <i class="nav-icon fas fa-box"></i>
+                        <p>Sản phẩm <i class="right fas fa-angle-left"></i></p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Products" asp-action="Index" class="nav-link @(controller == "Products" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách sản phẩm</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="ProductCategories" asp-action="Index" class="nav-link @(controller == "ProductCategories" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh mục sản phẩm</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="ProductComments" asp-action="Index" class="nav-link @(controller == "ProductComments" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Bình luận sản phẩm</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="ProductTags" asp-action="Index" class="nav-link @(controller == "ProductTags" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Gắn thẻ sản phẩm</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Quản lý đơn hàng -->
+                <li class="nav-item @(controller == "Orders" || controller == "OrderDetails" || controller == "Invoices" || controller == "InvoiceDetails" ? "menu-open" : "")">
+                    <a href="#" class="nav-link @(controller == "Orders" || controller == "OrderDetails" || controller == "Invoices" || controller == "InvoiceDetails" ? "active" : "")">
+                        <i class="nav-icon fas fa-shopping-cart"></i>
+                        <p>Đơn hàng <i class="right fas fa-angle-left"></i></p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Orders" asp-action="Index" class="nav-link @(controller == "Orders" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách đơn hàng</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="OrderDetails" asp-action="Index" class="nav-link @(controller == "OrderDetails" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Chi tiết đơn hàng</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Invoices" asp-action="Index" class="nav-link @(controller == "Invoices" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Hóa đơn</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="InvoiceDetails" asp-action="Index" class="nav-link @(controller == "InvoiceDetails" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Chi tiết hóa đơn</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Quản lý bài viết / tin tức -->
+                <li class="nav-item @(controller == "Posts" || controller == "PostCategories" || controller == "PostComments" || controller == "PostTags" ? "menu-open" : "")">
+                    <a href="#" class="nav-link @(controller == "Posts" || controller == "PostCategories" || controller == "PostComments" || controller == "PostTags" ? "active" : "")">
+                        <i class="nav-icon fas fa-newspaper"></i>
+                        <p>Bài viết & Tin tức <i class="right fas fa-angle-left"></i></p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Posts" asp-action="Index" class="nav-link @(controller == "Posts" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh sách bài viết</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="PostCategories" asp-action="Index" class="nav-link @(controller == "PostCategories" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Danh mục bài viết</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="PostComments" asp-action="Index" class="nav-link @(controller == "PostComments" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Bình luận bài viết</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="PostTags" asp-action="Index" class="nav-link @(controller == "PostTags" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Gắn thẻ bài viết</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <!-- Quản lý người dùng -->
+                <li class="nav-item @(controller == "Users" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Users" asp-action="Index" class="nav-link @(controller == "Users" ? "active" : "")">
+                        <i class="nav-icon fas fa-users"></i>
+                        <p>Quản lý người dùng</p>
+                    </a>
+                </li>
+
+                <!-- Liên hệ & Phản hồi -->
+                <li class="nav-item @(controller == "Contacts" || controller == "Feedbacks" ? "menu-open" : "")">
+                    <a href="#" class="nav-link @(controller == "Contacts" || controller == "Feedbacks" ? "active" : "")">
+                        <i class="nav-icon fas fa-envelope"></i>
+                        <p>Liên hệ & Phản hồi <i class="right fas fa-angle-left"></i></p>
+                    </a>
+                    <ul class="nav nav-treeview">
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Contacts" asp-action="Index" class="nav-link @(controller == "Contacts" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Liên hệ</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-area="Admin" asp-controller="Feedbacks" asp-action="Index" class="nav-link @(controller == "Feedbacks" ? "active" : "")">
+                                <i class="far fa-circle nav-icon"></i>
+                                <p>Phản hồi</p>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+            </ul>
+        </nav>
+    </div>
+</aside>

@@ -1,0 +1,47 @@
+﻿@model WebsitePhoto.Models.TbUser
+@{
+    ViewData["Title"] = "Đăng Ký";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5">
+            <div class="card shadow-lg rounded-4">
+                <div class="card-body p-4">
+                    <h3 class="text-center text-success mb-4">Tạo Tài Khoản</h3>
+                    <form asp-action="Register" method="post">
+                        <div class="form-floating mb-3">
+                            <input asp-for="UserName" class="form-control" placeholder="Tên đăng nhập" required />
+                            <label asp-for="UserName">Tên đăng nhập</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Password" type="password" class="form-control" placeholder="Mật khẩu" required />
+                            <label asp-for="Password">Mật khẩu</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="FullName" class="form-control" placeholder="Họ và tên" />
+                            <label asp-for="FullName">Họ và tên</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Email" type="email" class="form-control" placeholder="Email" />
+                            <label asp-for="Email">Email</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Phone" class="form-control" placeholder="Số điện thoại" />
+                            <label asp-for="Phone">Số điện thoại</label>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Address" class="form-control" placeholder="Địa chỉ" />
+                            <label asp-for="Address">Địa chỉ</label>
+                        </div>
+                        <button type="submit" class="btn btn-success w-100 py-2">Đăng Ký</button>
+                    </form>
+                    <div class="text-center mt-3">
+                        <span>Đã có tài khoản? </span>
+                        <a href="@Url.Action("Login", "Account")" class="text-decoration-none">Đăng nhập</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
